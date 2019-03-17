@@ -5,16 +5,6 @@
     "name": "o_morte",
     "eventList": [
         {
-            "id": "9f58c625-c099-414b-aae3-4d8c71481a2e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "ed8a9df8-31c5-4d73-9926-a4fec7963ebe"
-        },
-        {
             "id": "64688168-2ffc-47db-9099-e90217dfeda7",
             "modelName": "GMEvent",
             "mvc": "1.0",
